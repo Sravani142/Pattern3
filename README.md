@@ -9,7 +9,7 @@ Print the star pattern
 //Get the number of rows from the user
 
                           System.out.println("Enter the number of rows needed to print the pattren");
-			  int rows = sc.nextInt();
+			     int rows = sc.nextInt();
 
 "## printing the pattern ##"
                 
